@@ -72,7 +72,7 @@ overflow: hidden;
 }
 .main-page{
 border-bottom: 1px solid #e7e9fc;
-box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),;
+box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .container {
@@ -91,6 +91,9 @@ align-items: center;
 .link-logo{
 margin-right: 76px;
 text-decoration: none;
+position: relative;
+color: #404bbf;
+
 }
 .link-header{
 display: flex;
