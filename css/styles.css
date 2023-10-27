@@ -340,18 +340,10 @@ color: #434455;
 .key-social-link:focus{
     background-color: #404bbf; 
 }
-.key-instagram{
+.icon-team{
     fill: #f4f4fd;
 }
-.key-twitter{
-    fill: #f4f4fd;
-}
-.key-facebook{
-    fill: #f4f4fd;
-}
-.key-linkedin{
-    fill: #f4f4fd;
-}
+
 .fourth-section{
 padding-top: 120px; padding-bottom: 120px;
 }
