@@ -241,6 +241,15 @@ letter-spacing: 0.02em;
 color: #434455 ;
 
 }
+.second-section-image{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    height: 112px; 
+    background-color: #f4f4fd; 
+    border-radius: 4px; 
+    margin-bottom: 8px;
+}
 .third-section{
 background-color:#F4F4FD ;
 color: #2e2f42; 
@@ -299,7 +308,7 @@ color: #434455;
 }
 .key-social-icons-list{
     border-radius: 50%;
-    
+
 }
 .key-social-link{
     width: 100%;
