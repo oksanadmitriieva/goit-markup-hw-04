@@ -202,6 +202,15 @@ background-color: #404BBF ;
 .button-descr:focus{
 background-color: #404BBF;
 }
+.icons-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px; 
+    margin-bottom: 8px;
+}
 .second-section{
 padding: 120px 0;
 }
