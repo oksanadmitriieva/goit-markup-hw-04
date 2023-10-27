@@ -481,6 +481,8 @@ gap: 16px;
     width: 40px;
     height: 40px; 
     border-radius: 20px;
+    background-color:#4d5ae5;
+    border-radius: значенням 50%, 
 }
 .social-link-icons{
     fill: #f4f4fd;
@@ -497,9 +499,9 @@ gap: 16px;
     background-color: #4d5ae5;
     border-radius:50%;
 }
-.footer-social-list:hover{
+.social-link:hover{
     background-color: #31d0aa; 
 }
-.footer-social-list:focus{
+.social-link:focus{
     background-color: #31d0aa; 
 }
