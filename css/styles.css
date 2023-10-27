@@ -330,6 +330,11 @@ color: #434455;
 
 
 }
+.key-social-icons-ula{
+    display: flex;
+    justify-content: center; 
+    gap: 24px;
+}
 .key-social-link :hover{
     background-color: #404bbf; 
 }
