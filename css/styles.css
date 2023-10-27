@@ -264,6 +264,7 @@ background-color: #FFFFFF;
 box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08); 
 border-radius: 0px 0px 4px 4px; 
 width: calc((100% - 72px) / 4); 
+
 }
 .third-section-name{
 font-size: 36px ;
@@ -308,6 +309,8 @@ color: #434455;
 }
 .key-social-icons-list{
     border-radius: 50%;
+    width: 40px;
+    height: 40px; 
 
 }
 .key-social-link{
@@ -318,6 +321,7 @@ color: #434455;
     display: flex; 
     align-items: center; 
     justify-content: center;
+    
 
 }
 .key-social-link :hover{
