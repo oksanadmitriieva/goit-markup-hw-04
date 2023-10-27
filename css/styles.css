@@ -221,6 +221,7 @@ display: flex;
 .list-second{
 display: flex;   
 gap: 24px;
+align-items: center;
 }
 .second-section-list-item{
 width: 264px;
